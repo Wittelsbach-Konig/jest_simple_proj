@@ -1,0 +1,16 @@
+dist/
+node_modules/
+builds/
+cache/
+logs/
+.idea/
+npm-debug.log
+yarn-error.log
+yarn.lock
+version.js
+app.local.json
+settings/locationProject.json
+passports/
+config.json
+log.txt
+coverage/
