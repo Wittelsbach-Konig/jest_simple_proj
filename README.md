@@ -17,7 +17,7 @@ v14.17.0
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/jest_simple_proj.git &&
+git clone git@github.com:Wittelsbach-Konig/jest_simple_proj.git &&
 cd jest_simple_proj
 ```
 
